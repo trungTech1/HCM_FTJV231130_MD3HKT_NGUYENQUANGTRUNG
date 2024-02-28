@@ -1,0 +1,20 @@
+{
+  "staffs": [
+    {
+      "id": "27b2",
+      "name": "dsadá",
+      "dateOfBirth": "2024-02-09",
+      "email": "quangtrungdn1994@gmail.com",
+      "address": "18 nguyễn minh hoàng,p13,quận tân bình",
+      "status": "Đang hoạt động"
+    },
+    {
+      "id": "737e",
+      "name": "nguyễn trung",
+      "dateOfBirth": "2024-02-16",
+      "email": "quangtrungdn1994@gmail.com",
+      "address": "18 nguyễn minh hoàng,p13,quận tân bình",
+      "status": "Đang hoạt động"
+    }
+  ]
+}
