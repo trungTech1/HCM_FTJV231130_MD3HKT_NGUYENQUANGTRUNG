@@ -46,8 +46,10 @@ public class BookManager {
 
             }
         }
-    }
 
+
+
+    }
     private static Book[] addBook(Scanner scanner, Book[] books) {
         System.out.println("Vui lòng nhập số lượng sách cần thêm");
         int n = Integer.parseInt(scanner.nextLine());
