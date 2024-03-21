@@ -1,3 +1,7 @@
+package ra.run;
+
+import ra.bussiness.Book;
+
 import java.util.Scanner;
 
 public class BookManager {

@@ -1,3 +1,5 @@
+package ra.bussiness;
+
 import java.util.Scanner;
 
 public class Book {
